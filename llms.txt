@@ -1,7 +1,7 @@
 # Relationships · Reviewing a conversation · MotionGit .motion
 
 Template and full package: https://motiongit.com/@adunext/industry-relationships-conversation-review
-Version: 1.0.3
+Version: 1.0.4
 Demo available. Check the official page for current download availability.
 
 Declared runtime profile: adudir.generator/1.
